@@ -1,0 +1,36 @@
+{
+  "target_encoding": {
+    "Not-Dropout": 0,
+    "Dropout": 1
+  },
+  "top_correlated_features": {
+    "Curricular units 2nd sem (grade)": 0.572,
+    "Curricular units 2nd sem (approved)": 0.57,
+    "Curricular units 1st sem (grade)": 0.481,
+    "Curricular units 1st sem (approved)": 0.479,
+    "Tuition fees up to date": 0.429,
+    "Age at enrollment": 0.254,
+    "Scholarship holder": 0.245,
+    "Debtor": 0.229,
+    "Gender": 0.204,
+    "Application mode": 0.198
+  },
+  "age_bins": {
+    "(16.999, 19.0]": 1952,
+    "(25.0, 70.0]": 1045,
+    "(20.0, 25.0]": 828,
+    "(19.0, 20.0]": 599
+  },
+  "top_feature_importance": {
+    "Curricular units 2nd sem (approved)": 0.1459,
+    "Curricular units 2nd sem (grade)": 0.1262,
+    "Curricular units 1st sem (approved)": 0.0951,
+    "Curricular units 1st sem (grade)": 0.0666,
+    "Tuition fees up to date": 0.0639,
+    "Age at enrollment": 0.0437,
+    "Admission grade": 0.0394,
+    "Curricular units 2nd sem (evaluations)": 0.0357,
+    "Previous qualification (grade)": 0.034,
+    "Course": 0.0297
+  }
+}

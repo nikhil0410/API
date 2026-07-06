@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-07-05T15:06:35.063700+00:00",
+  "n_rows": 4424,
+  "n_features": 36,
+  "columns_with_missing": {},
+  "total_missing": 0,
+  "duplicate_rows": 0,
+  "class_balance": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  },
+  "minority_majority_ratio": 0.359,
+  "outlier_counts": {
+    "Previous qualification (grade)": 179,
+    "Admission grade": 86,
+    "Age at enrollment": 441,
+    "Curricular units 1st sem (credited)": 577,
+    "Curricular units 1st sem (enrolled)": 424,
+    "Curricular units 1st sem (evaluations)": 158,
+    "Curricular units 1st sem (approved)": 180,
+    "Curricular units 1st sem (grade)": 726,
+    "Curricular units 1st sem (without evaluations)": 294,
+    "Curricular units 2nd sem (credited)": 530,
+    "Curricular units 2nd sem (enrolled)": 369,
+    "Curricular units 2nd sem (evaluations)": 109,
+    "Curricular units 2nd sem (approved)": 44,
+    "Curricular units 2nd sem (grade)": 877,
+    "Curricular units 2nd sem (without evaluations)": 282
+  },
+  "issues": [],
+  "status": "PASS"
+}
